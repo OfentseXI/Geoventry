@@ -80,7 +80,7 @@ const Index = () => {
               </div>
               <div className="flex items-center space-x-2 p-2 bg-white rounded-lg">
                 <img
-                  src="/lovable-uploads/85fedc35-d4f8-43df-9570-0750167b553c.png"
+                  src="/uploads/geoventry.png"
                   alt="Tsoga Afrika Insurance Brokers"
                   className="h-8 w-auto"
                 />
@@ -280,7 +280,7 @@ const Index = () => {
               <div className="flex items-center space-x-2">
                 <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center p-1">
                   <img
-                    src="/lovable-uploads/85fedc35-d4f8-43df-9570-0750167b553c.png"
+                    src="/uploads/geoventry.png"
                     alt="Tsoga Afrika Insurance Brokers"
                     className="w-full h-full object-contain"
                   />
